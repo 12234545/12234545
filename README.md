@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm khaoula</h1>
 <h3 align="center">A Full Stack developer from Morocco</h3>
+<p align="center">
+  <img src="" alt="Amine animé" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12234545&label=Profile%20views&color=0e75b6&style=flat" alt="12234545" /> </p>
 
