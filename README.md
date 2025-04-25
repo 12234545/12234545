@@ -26,13 +26,8 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=12234545&theme=dark&hide_border=false)<br/>
-
-
-<p align="left" margin-right="20px">
-  <img src="https://github-readme-stats.vercel.app/api?username=12234545&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12234545&layout=compact&theme=radical" alt="Top Langs" margin-left="20px" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=12234545&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=12234545&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -46,6 +41,14 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=12234545&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=12234545&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=12234545&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
