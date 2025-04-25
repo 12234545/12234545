@@ -48,7 +48,13 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=12234545&theme=dark&hide_border=false)<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=12234545&label=Profile%20views&color=0e75b6&style=flat" alt="12234545" /> </p>
 
+<p align="left" margin-right="20px">
+  <img src="https://github-readme-stats.vercel.app/api?username=12234545&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12234545&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 
 
